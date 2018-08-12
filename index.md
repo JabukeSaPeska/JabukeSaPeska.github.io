@@ -108,7 +108,7 @@ a.horbox:hover {
 <div>
 	<a class="horbox"
 		href="/technology/"
-		style="background-color:#646945;min-height:120px;background-image:url(/img/technology2.png);background-blend-mode: soft-light;"
+		style="background-color:#646945;min-height:120px;background-image:url(/img/technology.png);background-blend-mode: soft-light;"
 	>
 		<div class="row flex-row">
 			<div class="flex-9">
@@ -116,7 +116,7 @@ a.horbox:hover {
 				<div class="description">Learn how we farm our apples.</div>
 			</div>
 			<div class="flex-3">
-				<div class="roundimg" style="background-image:url(/img/technology2.png);"></div>
+				<div class="roundimg" style="background-image:url(/img/technology.png);"></div>
 			</div>
 		</div>
 	</a>

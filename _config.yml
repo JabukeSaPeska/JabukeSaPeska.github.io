@@ -7,13 +7,14 @@
 
 # Site settings
 title: Jabuke sa Peska
-email: mucsi@tippnet.rs
+email: ''
+address: Kovács János 6782
+phone_number: 00+381 24 882-230
 description: >
   Jabuke sa Peska.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_name: kinallat
 
 # Build settings
 markdown: kramdown

@@ -11,7 +11,7 @@ email: ''
 address: Kovács János 6782
 phone_number: 00+381 24 882-230
 description: >
-  Jabuke sa Peska.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1" # the base hostname & protocol for your site
 facebook_name: kinallat

@@ -12,7 +12,10 @@ permalink: /
 	padding-right: 0;
 }
 .page-content {
-	padding-top: 0;
+	/*padding-top: 0;*/
+}
+.wrapper {
+    padding-top: 0;
 }
 .horbox {
 	display: flex;
@@ -33,6 +36,13 @@ a.horbox {
 a.horbox:hover {
 	text-decoration: none;
 	opacity: 0.9;
+}
+.horbox-text {
+	background: rgba(99, 22, 22, 0.2);
+	padding: 1em;
+	border-radius: 4px;
+	box-shadow: 0 0 black;
+	box-sizing: border-box;
 }
 .horbox .flex-row {
 	width: 100%;
@@ -62,7 +72,7 @@ a.horbox:hover {
 
 <div class="horbox" style="background-image:url(/img/photos/applebin.jpg)">
 	<div class="row">
-		<div class="offset-6 col-6">
+		<div class="offset-6 col-6 horbox-text">
 			<h3>Jabuke sa Peska</h3>
 			<div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 		</div>

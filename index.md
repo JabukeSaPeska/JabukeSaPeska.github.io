@@ -15,7 +15,7 @@ permalink: /
 	/*padding-top: 0;*/
 }
 .wrapper {
-    padding-top: 0;
+	padding-top: 0;
 }
 .horbox {
 	display: flex;

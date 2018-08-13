@@ -29,11 +29,6 @@ permalink: /apple-varieties/
 .apple-variety h3 a {
 	color: #B22;
 }
-.apple-variety .availability {
-	color: #444;
-	font-weight: bold;
-	margin-bottom: 2em;
-}
 </style>
 
 <div>
@@ -69,38 +64,35 @@ permalink: /apple-varieties/
 			<img src="/img/apple-varieties/golden_delicious.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Golden Delicious</h3>
+			<h3><a href="https://en.wikipedia.org/wiki/Golden_Delicious">Golden Delicious</a></h3>
 			<div>One of the most popular varieties in the world. Due to its regular size, even colour and storage qualities the fruit is widely sold commercially. Uniform light green-yellow coloration, very sweet.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/pink_lady.png">
+			<img src="/img/apple-varieties/pink_lady.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Pink Lady</h3>
-			<div class="availability">(___ to ___)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Cripps_Pink">Pink Lady</a></h3>
+			<div>A cross between the Lady Williams with a Golden Delicious to combine the firm long-storing property of Lady Williams with the sweetness and lack of storage scald of Golden Delicious.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/mutsu.png">
+			<img src="/img/apple-varieties/mutsu.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Mutsu</h3>
-			<div class="availability">(___ to ___)</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Mutsu_(apple)">Mutsu</a></h3>
 			<div>The Mutsu apple (also known as Crispin) was introduced in 1948. It is a cross between the Golden Delicious and Indo. First grown in Japan, it was named after the Mutsu province in Japan.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/granny_smith.png">
+			<img src="/img/apple-varieties/granny_smith.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Granny Smith</h3>
-			<div class="availability">(___ to ___)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Granny_Smith">Granny Smith</a></h3>
+			<div>Granny Smith apples have a hard, light green skin and a crisp, juicy flesh.</div>
 		</div>
 	</div>
 </div>

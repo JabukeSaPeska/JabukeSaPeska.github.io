@@ -43,7 +43,6 @@ permalink: /apple-varieties/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Idared">Idared</a></h3>
-			<div class="availability">(October to July)</div>
 			<div>A cross between Jonathan and Wagener. The Idared has a white flesh with a firm body, and is generally considered to be tart and juicy.</div>
 		</div>
 	</div>

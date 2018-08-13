@@ -48,7 +48,7 @@ permalink: /apple-varieties/
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/photos/gloster1.jpg" class="shadow-outline">
+			<img src="/img/apple-varieties/gloster.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/List_of_apple_cultivars">Gloster</a></h3>
@@ -57,7 +57,7 @@ permalink: /apple-varieties/
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/photos/jonagold.jpg" class="shadow-outline">
+			<img src="/img/apple-varieties/jonagold.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Jonagold">Jonagold</a></h3>
@@ -66,7 +66,7 @@ permalink: /apple-varieties/
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/photos/golden_delicious1.jpg" class="shadow-outline">
+			<img src="/img/apple-varieties/golden_delicious.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3>Golden Delicious</h3>

@@ -18,11 +18,16 @@ permalink: /apple-varieties/
 	padding: 0 1em;
 	box-sizing: border-box;
 }
+.shadow-outline {
+	box-shadow: 0 0 4px #000;
+}
 .apple-variety h3 {
-	color: #B22;
 	font-weight: bold;
 	margin-bottom: 0;
 	line-height: 1;
+}
+.apple-variety h3 a {
+	color: #B22;
 }
 .apple-variety .availability {
 	color: #444;
@@ -34,42 +39,39 @@ permalink: /apple-varieties/
 <div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/idared.png">
+			<img src="/img/photos/idared.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Idared</h3>
+			<h3><a href="https://en.wikipedia.org/wiki/Idared">Idared</a></h3>
 			<div class="availability">(October to July)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<div>A cross between Jonathan and Wagener. The Idared has a white flesh with a firm body, and is generally considered to be tart and juicy.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/gloster.png">
+			<img src="/img/photos/gloster1.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Gloster</h3>
-			<div class="availability">(___ to ___)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/List_of_apple_cultivars">Gloster</a></h3>
+			<div>Conical shape. Somewhat tart, ruby red colour like parent Red Delicious. Good choice for backyard gardening.	</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/jonagold.png">
+			<img src="/img/photos/jonagold.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3>Jonagold</h3>
-			<div class="availability">(___ to ___)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Jonagold">Jonagold</a></h3>
+			<div>A cross between the crisp Golden Delicious and the blush-crimson Jonathan.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/apple-varieties/golden_delicious.png">
+			<img src="/img/photos/golden_delicious1.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3>Golden Delicious</h3>
-			<div class="availability">(___ to ___)</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+			<div>One of the most popular varieties in the world. Due to its regular size, even colour and storage qualities the fruit is widely sold commercially. Uniform light green-yellow coloration, very sweet.</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">

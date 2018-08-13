@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-**Levelezési cim:**
+**Address:**
 
-Kovács János 6782 Mórahalom VII. Körzet 152 Magyarország  
 Kovács János 24416 Male Pijace Trudbenicki Put 28b Srbija 
 
-**E-mail:** mucsi@tippnet.rs 
+**E-mail:** janoskovacs15@gmail.com
 
 **Telefon/Üzenetrögzitö/Fax:**
 00+381 24 882-230 

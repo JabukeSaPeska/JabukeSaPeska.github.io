@@ -38,10 +38,10 @@ a.horbox:hover {
 	opacity: 0.9;
 }
 .horbox-text {
-	background: rgba(99, 22, 22, 0.2);
+	background: rgba(99, 22, 22, 0.5);
 	padding: 1em;
-	border-radius: 4px;
-	box-shadow: 0 0 black;
+	border-radius: 40px;
+	box-shadow: 0 0 1px black;
 	box-sizing: border-box;
 }
 .horbox .flex-row {
@@ -58,6 +58,9 @@ a.horbox:hover {
 .horbox .description {
 	font-weight: bold;
 }
+.horbox .description + .description {
+	margin-top: 1em;
+}
 .roundimg {
 	background-position: center;
 	background-size: cover;
@@ -72,29 +75,15 @@ a.horbox:hover {
 
 <div class="horbox" style="background-image:url(/img/photos/applebin.jpg)">
 	<div class="row">
-		<div class="offset-6 col-6 horbox-text">
-			<h3>Jabuke sa Peska</h3>
-			<div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+		<div class="horbox-text">
+			<h3 class="text-center">Jabuke sa Peska</h3>
+			<div class="description">Welcome to our farm. We offer a wide selection of apples. Due to the unique micro-climate our apples have a distinct taste with attractive colors. Because of the control storage technology, apples are available from September to May.</div>
+			<div class="description">Dobrodošli na našu farmu. Nudimo širok izbor jabuka. Zahvaljujući jedinstvenoj mikro-klimi i neintenzivnoj tehnologiji, naša jabuka ima poseban ukus sa atraktivnim bojama. Zbog tehnologije za skladištenje, jabuke su dostupne od septembra do maja.</div>
+			<div class="description">Szeretettel köszöntjük web oldalunkon. Évtizedek óta termeljük es kináljuk almáinkat eladásra. Az ideális mikro-klimának és az extenziv termesztési technologiának köszönve almáink különlegesen izletesek es szinesek. Ellenörzott tárolási körülmények segitségevel a termést szeptembertöl-májusig tudjuk kinálni.</div>
 		</div>
 	</div>
 </div>
 
-
-<div>
-	<a class="horbox"
-		style="background-color:#631616;min-height:120px;"
-		href="/contact/"
-	>
-		<div class="row flex-row">
-			<div class="flex-3"></div>
-			<div class="flex-6">
-				<div class="description">Kovács János 6782</div>
-				<div class="description">00+381 24 882-230</div>
-			</div>
-			<div class="flex-3"></div>
-		</div>
-	</a>
-</div>
 
 <div>
 	<a class="horbox"
@@ -106,9 +95,7 @@ a.horbox:hover {
 				<div class="roundimg" style="background-image:url(/img/bushel.png);"></div>
 			</div>
 			<div class="flex-9">
-				<h3>Apple Varieties</h3>
-				<div class="description">We sell a variety of apple types.</div>
-				
+				<h3>Apples For Sale</h3>
 			</div>
 		</div>
 	</a>

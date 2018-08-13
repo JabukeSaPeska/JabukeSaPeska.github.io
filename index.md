@@ -71,15 +71,22 @@ a.horbox:hover {
 	box-shadow: 0 0 2px #000;
 }
 
+.horbox .description {
+	padding-left: 80px;
+	background-position: left center;
+	background-size: 70px 39px;
+	background-repeat: no-repeat;
+}
+
 </style>
 
 <div class="horbox" style="background-image:url(/img/photos/applebin.jpg)">
 	<div class="row">
 		<div class="horbox-text">
 			<h3 class="text-center">Jabuke sa Peska</h3>
-			<div class="description">Welcome to our farm. We offer a wide selection of apples. Due to the unique micro-climate our apples have a distinct taste with attractive colors. Because of the control storage technology, apples are available from September to May.</div>
-			<div class="description">Dobrodošli na našu farmu. Nudimo širok izbor jabuka. Zahvaljujući jedinstvenoj mikro-klimi i neintenzivnoj tehnologiji, naša jabuka ima poseban ukus sa atraktivnim bojama. Zbog tehnologije za skladištenje, jabuke su dostupne od septembra do maja.</div>
-			<div class="description">Szeretettel köszöntjük web oldalunkon. Évtizedek óta termeljük es kináljuk almáinkat eladásra. Az ideális mikro-klimának és az extenziv termesztési technologiának köszönve almáink különlegesen izletesek es szinesek. Ellenörzott tárolási körülmények segitségevel a termést szeptembertöl-májusig tudjuk kinálni.</div>
+			<div class="description lang-en">Welcome to our farm. We offer a wide selection of apples. Due to the unique micro-climate our apples have a distinct taste with attractive colors. Because of the control storage technology, apples are available from September to May.</div>
+			<div class="description lang-hu">Dobrodošli na našu farmu. Nudimo širok izbor jabuka. Zahvaljujući jedinstvenoj mikro-klimi i neintenzivnoj tehnologiji, naša jabuka ima poseban ukus sa atraktivnim bojama. Zbog tehnologije za skladištenje, jabuke su dostupne od septembra do maja.</div>
+			<div class="description lang-sb">Szeretettel köszöntjük web oldalunkon. Évtizedek óta termeljük es kináljuk almáinkat eladásra. Az ideális mikro-klimának és az extenziv termesztési technologiának köszönve almáink különlegesen izletesek es szinesek. Ellenörzott tárolási körülmények segitségevel a termést szeptembertöl-májusig tudjuk kinálni.</div>
 		</div>
 	</div>
 </div>

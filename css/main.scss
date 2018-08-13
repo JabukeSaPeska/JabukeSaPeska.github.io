@@ -200,8 +200,7 @@ a.site-title:hover {
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
-
-	&.lang-en { background-image: url(/img/lang/uk.svg); }
-	&.lang-hu { background-image: url(/img/lang/hungary.png); }
-	&.lang-sb { background-image: url(/img/lang/serbia.png); }
 }
+.lang-en { background-image: url(/img/lang/uk.png); }
+.lang-hu { background-image: url(/img/lang/hungary.png); }
+.lang-sb { background-image: url(/img/lang/serbia.png); }

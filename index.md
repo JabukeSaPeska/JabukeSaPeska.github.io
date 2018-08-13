@@ -71,7 +71,7 @@ a.horbox:hover {
 	box-shadow: 0 0 2px #000;
 }
 
-.horbox .description {
+.horbox .description[class*="lang-"] {
 	padding-left: 80px;
 	background-position: left center;
 	background-size: 70px 39px;

@@ -39,7 +39,7 @@ permalink: /apple-varieties/
 <div>
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
-			<img src="/img/photos/idared.jpg" class="shadow-outline">
+			<img src="/img/apple-varieties/idared.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Idared">Idared</a></h3>

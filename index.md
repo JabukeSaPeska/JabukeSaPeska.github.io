@@ -53,7 +53,6 @@ a.horbox:hover {
 .horbox h3 {
 	font-size: 2em;
 	font-weight: bold;
-	text-transform: uppercase;
 	padding: 0em 0.5em;
 }
 .horbox .description {

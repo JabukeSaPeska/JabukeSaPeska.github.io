@@ -41,7 +41,7 @@ permalink: /technology/
 * Neintenzivna proizvodnja
 * Bez veštačkih i mineralnih djubriva
 * Sistem za navodnjavanje "kiša" kako bi se izbevagao stres na drveće
-* Pesticidi se koriste u skladu sa propisima Republike Srbije
+* Pesticidi se koriste u skladu sa propisima Srbije
 * Berba od kraja avgusta do kraja oktobra ručno
 * Redovno hladjenje na temperaturi od 5 - 8 stepeni Celzijusa
 * Prodaja od septembra do maja

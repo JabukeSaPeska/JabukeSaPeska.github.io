@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apple Varieties
-permalink: /apple-varieties/
+title: Apples For Sale
+permalink: /apples-for-sale/
 ---
 
 <style type="text/css">
@@ -99,10 +99,13 @@ permalink: /apple-varieties/
 
 	<h3>Second Grade Apples</h3>
 
+	<p>On our 3.5 hectares orchard we produce about 110 tonnes of First Class apples per year.</p>
+
 	<div class="flex-row apple-variety">
 		<div class="flex-12">
 			<img src="/img/apple-varieties/industrial1.jpg" class="shadow-outline">
 		</div>
 	</div>
+	<p>We also offer about 20 tonnes of Second Class apples per year which can be used for cider and alcohol production.</p>
 </div>
 

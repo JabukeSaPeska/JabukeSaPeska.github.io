@@ -95,7 +95,7 @@ a.horbox:hover {
 
 <div>
 	<a class="horbox"
-		href="/apple-varieties/"
+		href="/apples-for-sale/"
 		style="background-color:#646945;min-height:120px;background-image:url(/img/bushel.png);background-blend-mode: overlay;"
 	>
 		<div class="row flex-row">

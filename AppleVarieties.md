@@ -8,10 +8,10 @@ permalink: /apple-varieties/
 .apple-variety {
 	margin-bottom: 36px;
 }
-.apple-variety > div:nth-of-type(1) {
+.apple-variety > .flex-4:nth-of-type(1) {
 	text-align: center;
 }
-.apple-variety > div:nth-of-type(2) {
+.apple-variety > .flex-4:nth-of-type(1) + .flex-8 {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -93,6 +93,15 @@ permalink: /apple-varieties/
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Granny_Smith">Granny Smith</a></h3>
 			<div>Granny Smith apples have a hard, light green skin and a crisp, juicy flesh.</div>
+		</div>
+	</div>
+
+
+	<h3>Second Grade Apples</h3>
+
+	<div class="flex-row apple-variety">
+		<div class="flex-12">
+			<img src="/img/apple-varieties/industrial1.jpg" class="shadow-outline">
 		</div>
 	</div>
 </div>

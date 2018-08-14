@@ -54,6 +54,7 @@ a.horbox:hover {
 	font-size: 2em;
 	font-weight: bold;
 	text-transform: uppercase;
+	padding: 0em 0.5em;
 }
 .horbox .description {
 	font-weight: bold;
@@ -115,9 +116,8 @@ a.horbox:hover {
 		style="background-color:#646945;min-height:120px;background-image:url(/img/technology.png);background-blend-mode: soft-light;"
 	>
 		<div class="row flex-row">
-			<div class="flex-9">
-				<h3>Technology</h3>
-				<div class="description">Learn how we farm our apples.</div>
+			<div class="offset-3 flex-6">
+				<h3 class="text-">Technology</h3>
 			</div>
 			<div class="flex-3">
 				<div class="roundimg" style="background-image:url(/img/technology.png);"></div>

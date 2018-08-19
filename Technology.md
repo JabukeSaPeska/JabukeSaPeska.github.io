@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology
+title: pages.technology
 permalink: /technology/
 ---
 

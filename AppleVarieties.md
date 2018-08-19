@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apples For Sale
+title: pages.apples_for_sale
 permalink: /apples-for-sale/
 ---
 

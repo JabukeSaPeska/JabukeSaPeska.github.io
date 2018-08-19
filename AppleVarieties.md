@@ -37,8 +37,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/idared.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Idared">Idared</a></h3>
-			<div>A cross between Jonathan and Wagener. The Idared has a white flesh with a firm body, and is generally considered to be tart and juicy.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Idared">{% translate apple_varieties.idared_heading %}</a></h3>
+			<div>{% translate apple_varieties.idared_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -46,8 +46,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/gloster.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/List_of_apple_cultivars">Gloster</a></h3>
-			<div>Conical shape. Somewhat tart, ruby red colour like parent Red Delicious. Good choice for backyard gardening.	</div>
+			<h3><a href="https://en.wikipedia.org/wiki/List_of_apple_cultivars">{% translate apple_varieties.gloster_heading %}</a></h3>
+			<div>{% translate apple_varieties.gloster_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -55,8 +55,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/jonagold.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Jonagold">Jonagold</a></h3>
-			<div>A cross between the crisp Golden Delicious and the blush-crimson Jonathan.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Jonagold">{% translate apple_varieties.jonagold_heading %}</a></h3>
+			<div>{% translate apple_varieties.jonagold_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -64,8 +64,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/golden_delicious.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Golden_Delicious">Golden Delicious</a></h3>
-			<div>One of the most popular varieties in the world. Due to its regular size, even colour and storage qualities the fruit is widely sold commercially. Uniform light green-yellow coloration, very sweet.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Golden_Delicious">{% translate apple_varieties.golden_delicious_heading %}</a></h3>
+			<div>{% translate apple_varieties.golden_delicious_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -73,8 +73,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/pink_lady.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Cripps_Pink">Pink Lady</a></h3>
-			<div>A cross between the Lady Williams with a Golden Delicious to combine the firm long-storing property of Lady Williams with the sweetness and lack of storage scald of Golden Delicious.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Cripps_Pink">{% translate apple_varieties.pink_lady_heading %}</a></h3>
+			<div>{% translate apple_varieties.pink_lady_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -82,8 +82,8 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/mutsu.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Mutsu_(apple)">Mutsu</a></h3>
-			<div>The Mutsu apple (also known as Crispin) was introduced in 1948. It is a cross between the Golden Delicious and Indo. First grown in Japan, it was named after the Mutsu province in Japan.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Mutsu_(apple)">{% translate apple_varieties.mutsu_heading %}</a></h3>
+			<div>{% translate apple_varieties.mutsu_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -91,21 +91,21 @@ permalink: /apples-for-sale/
 			<img src="/img/apple-varieties/granny_smith.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
-			<h3><a href="https://en.wikipedia.org/wiki/Granny_Smith">Granny Smith</a></h3>
-			<div>Granny Smith apples have a hard, light green skin and a crisp, juicy flesh.</div>
+			<h3><a href="https://en.wikipedia.org/wiki/Granny_Smith">{% translate apple_varieties.granny_smith_heading %}</a></h3>
+			<div>{% translate apple_varieties.granny_smith_text %}</div>
 		</div>
 	</div>
 
 
-	<h3>Second Grade Apples</h3>
+	<h3>{% translate apple_varieties.industrial_heading %}</h3>
 
-	<p>On our 3.5 hectares orchard we produce about 110 tonnes of First Class apples per year.</p>
+	<p>{% translate apple_varieties.industrial_above %}</p>
 
 	<div class="flex-row apple-variety">
 		<div class="flex-12">
 			<img src="/img/apple-varieties/industrial1.jpg" class="shadow-outline">
 		</div>
 	</div>
-	<p>We also offer about 20 tonnes of Second Class apples per year which can be used for cider and alcohol production.</p>
+	<p>{% translate apple_varieties.industrial_below %}</p>
 </div>
 

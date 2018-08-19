@@ -458,6 +458,9 @@ pre {
 body {
   min-height: 100vh; }
 
+.wrapper {
+  max-width: calc(780px - (30px * 2)); }
+
 .site-title {
   margin-right: 10px; }
 
@@ -483,7 +486,11 @@ a.site-title:hover {
     margin-left: 0; }
 
   .site-nav .page-link:not(:last-child) {
-    margin-right: 0; } }
+    margin-right: 0; }
+
+  .site-nav .page-link.lang-link {
+    width: 100%;
+    padding: 0; } }
 @media screen and (min-width: 921px) {
   .site-nav .page-link {
     display: inline-block;

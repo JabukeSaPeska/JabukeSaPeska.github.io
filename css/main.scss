@@ -58,6 +58,11 @@ $on-laptop:        920px;
 body {
 	min-height: 100vh;
 }
+
+.wrapper {
+	max-width: calc(780px - (30px * 2));
+}
+
 .site-title {
 	margin-right: 10px;
 }

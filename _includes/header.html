@@ -14,13 +14,12 @@
 			</a>
 
 			<div class="trigger">
-
-				<a class="page-link" href="/apples-for-sale/">Apples For Sale</a>
-				<a class="page-link" href="/technology/">Technology</a>
-				<a class="page-link" href="/contact/">Contact</a>
-				<a class="page-link lang-link lang-en" href="/en/">&nbsp;</a>
-				<a class="page-link lang-link lang-hu" href="/hu/">&nbsp;</a>
-				<a class="page-link lang-link lang-sb-outline" href="/sb/">&nbsp;</a>
+				<a class="page-link" href="/apples-for-sale/">{% translate pages.apples_for_sale %}</a>
+				<a class="page-link" href="{{ "/technology/" | prepend: site.baseurl_root }}">{% translate pages.technology %}</a>
+				<a class="page-link" href="/contact/">{% translate pages.contact %}</a>
+				<a class="page-link lang-link lang-en" href="{{ page.url }}">&nbsp;</a>
+				<a class="page-link lang-link lang-hu" href="/hu{{ page.url }}">&nbsp;</a>
+				<a class="page-link lang-link lang-sr-outline" href="/sr{{ page.url }}">&nbsp;</a>
 			</div>
 		</nav>
 

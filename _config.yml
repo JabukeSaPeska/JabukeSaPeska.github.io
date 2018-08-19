@@ -16,3 +16,18 @@ url: "http://127.0.0.1" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - project.sublime-project
+  - project.sublime-workspace
+
+
+# Language
+languages: [en, hu, sr]
+exclude_from_localizations:
+  - js
+  - img
+  - css
+
+gems: 
+  - jekyll-multiple-languages-plugin

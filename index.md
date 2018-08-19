@@ -86,7 +86,7 @@ a.horbox:hover {
 			<h3 class="text-center">Jabuke sa Peska</h3>
 			<div class="description lang-en">Welcome to our farm. We offer a wide selection of apples. Due to the unique micro-climate our apples have a distinct taste with attractive colors. Because of the control storage technology, apples are available from September to May.</div>
 			<div class="description lang-hu">Szeretettel köszöntjük web oldalunkon. Évtizedek óta termeljük es kináljuk almáinkat eladásra. Az ideális mikro-klimának és az extenziv termesztési technologiának köszönve almáink különlegesen izletesek es szinesek. Ellenörzott tárolási körülmények segitségevel a termést szeptembertöl-májusig tudjuk kinálni.</div>
-			<div class="description lang-sb">Dobrodošli na našu farmu. Nudimo širok izbor jabuka. Zahvaljujući jedinstvenoj mikro-klimi i neintenzivnoj tehnologiji, naša jabuka ima poseban ukus sa atraktivnim bojama. Zbog tehnologije za skladištenje, jabuke su dostupne od septembra do maja.</div>
+			<div class="description lang-sr">Dobrodošli na našu farmu. Nudimo širok izbor jabuka. Zahvaljujući jedinstvenoj mikro-klimi i neintenzivnoj tehnologiji, naša jabuka ima poseban ukus sa atraktivnim bojama. Zbog tehnologije za skladištenje, jabuke su dostupne od septembra do maja.</div>
 		</div>
 	</div>
 </div>

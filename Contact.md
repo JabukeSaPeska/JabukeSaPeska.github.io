@@ -4,12 +4,12 @@ title: pages.contact
 permalink: /contact/
 ---
 
-**Address:**  
+**{% translate contact.address_heading %}:**  
 Kovács János 24416 Male Pijace Trudbenicki Put 28b Srbija
 
-**E-mail:** <a href="mailto:janoskovacs15@gmail.com">janoskovacs15@gmail.com</a>
+**{% translate contact.email_heading %}:** <a href="mailto:janoskovacs15@gmail.com">janoskovacs15@gmail.com</a>
 
-**Phone:**  
+**{% translate contact.phone_heading %}:**  
 +381 63 866 61 98
 
 <div class="text-center">

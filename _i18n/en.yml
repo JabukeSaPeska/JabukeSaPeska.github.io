@@ -4,29 +4,27 @@ pages:
   technology: Technology
 
 apple_varieties:
+  intro_text: On our 3.5 hectares orchard we produce about 110 tonnes of First Class apples per year.
+
   idared_heading: Idared
-  idared_text: A cross between Jonathan and Wagener. The Idared has a white flesh with a firm body, and is generally considered to be tart and juicy.
-
+  
   gloster_heading: Gloster
-  gloster_text: Conical shape. Somewhat tart, ruby red colour like parent Red Delicious. Good choice for backyard gardening.
-
+  
   jonagold_heading: Jonagold
-  jonagold_text: A cross between the crisp Golden Delicious and the blush-crimson Jonathan.
-
+  
   golden_delicious_heading: Golden Delicious
-  golden_delicious_text: One of the most popular varieties in the world. Due to its regular size, even colour and storage qualities the fruit is widely sold commercially. Uniform light green-yellow coloration, very sweet.
-
+  
   pink_lady_heading: Pink Lady
-  pink_lady_text: A cross between the Lady Williams with a Golden Delicious to combine the firm long-storing property of Lady Williams with the sweetness and lack of storage scald of Golden Delicious.
-
+  
   mutsu_heading: Mutsu
-  mutsu_text: The Mutsu apple (also known as Crispin) was introduced in 1948. It is a cross between the Golden Delicious and Indo. First grown in Japan, it was named after the Mutsu province in Japan.
-
+  
   granny_smith_heading: Granny Smith
-  granny_smith_text: Granny Smith apples have a hard, light green skin and a crisp, juicy flesh.
-
+  
   industrial_heading: Second Grade Apples
-  industrial_above: On our 3.5 hectares orchard we produce about 110 tonnes of First Class apples per year.
   industrial_below: We also offer about 20 tonnes of Second Class apples per year which can be used for cider and alcohol production.
 
 
+contact:
+  address_heading: Address 
+  email_heading: E-Mail
+  phone_heading: Phone

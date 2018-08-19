@@ -24,7 +24,7 @@ exclude:
 
 
 # Language
-languages: [en, hu, sr]
+languages: [hu, sr, en]
 exclude_from_localizations:
   - js
   - img

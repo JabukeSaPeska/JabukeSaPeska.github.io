@@ -32,13 +32,14 @@ permalink: /apples-for-sale/
 </style>
 
 <div>
+	<p>{% translate apple_varieties.intro_text %}</p>
+
 	<div class="flex-row apple-variety">
 		<div class="flex-4">
 			<img src="/img/apple-varieties/idared.jpg" class="shadow-outline">
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Idared">{% translate apple_varieties.idared_heading %}</a></h3>
-			<div>{% translate apple_varieties.idared_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -47,7 +48,6 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/List_of_apple_cultivars">{% translate apple_varieties.gloster_heading %}</a></h3>
-			<div>{% translate apple_varieties.gloster_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -56,7 +56,6 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Jonagold">{% translate apple_varieties.jonagold_heading %}</a></h3>
-			<div>{% translate apple_varieties.jonagold_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -65,7 +64,6 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Golden_Delicious">{% translate apple_varieties.golden_delicious_heading %}</a></h3>
-			<div>{% translate apple_varieties.golden_delicious_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -74,7 +72,6 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Cripps_Pink">{% translate apple_varieties.pink_lady_heading %}</a></h3>
-			<div>{% translate apple_varieties.pink_lady_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -83,7 +80,6 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Mutsu_(apple)">{% translate apple_varieties.mutsu_heading %}</a></h3>
-			<div>{% translate apple_varieties.mutsu_text %}</div>
 		</div>
 	</div>
 	<div class="flex-row apple-variety">
@@ -92,14 +88,11 @@ permalink: /apples-for-sale/
 		</div>
 		<div class="flex-8">
 			<h3><a href="https://en.wikipedia.org/wiki/Granny_Smith">{% translate apple_varieties.granny_smith_heading %}</a></h3>
-			<div>{% translate apple_varieties.granny_smith_text %}</div>
 		</div>
 	</div>
 
 
 	<h3>{% translate apple_varieties.industrial_heading %}</h3>
-
-	<p>{% translate apple_varieties.industrial_above %}</p>
 
 	<div class="flex-row apple-variety">
 		<div class="flex-12">

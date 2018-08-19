@@ -20,6 +20,7 @@ markdown: kramdown
 exclude:
   - project.sublime-project
   - project.sublime-workspace
+  - ReadMe.md
 
 
 # Language

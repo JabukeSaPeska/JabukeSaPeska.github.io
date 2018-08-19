@@ -1,5 +1,3 @@
-# TERMESZTÉS TECHNOLÓGIA
-
 * Homokos talajon telepitett almás
 * A kedvező napfényes órák száma 4800-4900 MJ/m2
 * Kézi ritkitás

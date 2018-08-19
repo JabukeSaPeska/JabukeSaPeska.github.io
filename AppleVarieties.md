@@ -94,11 +94,12 @@ permalink: /apples-for-sale/
 
 	<h3>{% translate apple_varieties.industrial_heading %}</h3>
 
+	<p>{% translate apple_varieties.industrial_below %}</p>
+	
 	<div class="flex-row apple-variety">
 		<div class="flex-12">
 			<img src="/img/apple-varieties/industrial1.jpg" class="shadow-outline">
 		</div>
 	</div>
-	<p>{% translate apple_varieties.industrial_below %}</p>
 </div>
 

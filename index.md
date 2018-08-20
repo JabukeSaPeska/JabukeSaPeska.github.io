@@ -95,11 +95,11 @@ a.horbox:hover {
 <div>
 	<a class="horbox"
 		href="{{ "/apples-for-sale/" | prepend: site.baseurl }}"
-		style="background-color:#646945;min-height:120px;background-image:url(/img/bushel.png);background-blend-mode: overlay;"
+		style="background-color:#646945;min-height:120px;background-image:url(/img/bushel.jpg);background-blend-mode: overlay;"
 	>
 		<div class="row flex-row">
 			<div class="flex-3">
-				<div class="roundimg" style="background-image:url(/img/bushel.png);"></div>
+				<div class="roundimg" style="background-image:url(/img/bushel.jpg);"></div>
 			</div>
 			<div class="flex-9">
 				<h3>{% translate pages.apples_for_sale %}</h3>
@@ -112,14 +112,14 @@ a.horbox:hover {
 <div>
 	<a class="horbox"
 		href="{{ "/technology/" | prepend: site.baseurl }}"
-		style="background-color:#646945;min-height:120px;background-image:url(/img/technology.png);background-blend-mode: soft-light;"
+		style="background-color:#646945;min-height:120px;background-image:url(/img/technology.jpg);background-blend-mode: soft-light;"
 	>
 		<div class="row flex-row">
 			<div class="offset-3 flex-6">
 				<h3 class="text-">{% translate pages.technology %}</h3>
 			</div>
 			<div class="flex-3">
-				<div class="roundimg" style="background-image:url(/img/technology.png);"></div>
+				<div class="roundimg" style="background-image:url(/img/technology.jpg);"></div>
 			</div>
 		</div>
 	</a>

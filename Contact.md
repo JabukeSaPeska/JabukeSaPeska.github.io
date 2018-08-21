@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 **{% translate contact.address_heading %}:**  
-Kovács János 24416 Male Pijace Trudbenicki Put 28b Srbija
+{{ site.address }}
 
 **{% translate contact.email_heading %}:**
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
